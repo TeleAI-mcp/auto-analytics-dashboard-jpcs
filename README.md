@@ -1,2 +1,3 @@
-# auto-analytics-dashboard-jpcs
-Automated issue comment bot repository
+# Auto Analytics Dashboard Jpcs
+
+Automated issue comment bot repository.
